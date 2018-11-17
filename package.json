@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/josephfmck/burger#readme",
   "dependencies": {
+    "dotenv": "^6.1.0",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
     "method-override": "^3.0.0",
