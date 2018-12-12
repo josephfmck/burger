@@ -6,7 +6,7 @@ A Burger Eatin' Application With Node.js/Express/MySQL
 
 ![Alt text](https://github.com/josephfmck/burger/blob/master/public/img/screenshot-Eat-Da-Burger.png?raw=true "Optional Title")
 
-##Description
+## Description
 
 This application demonstrates a simple full stack application with a front end implemented with HTML/CSS and the backend implemented with Node.js and Express. HTML templating is done with Handlebars.
 
