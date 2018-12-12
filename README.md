@@ -4,7 +4,7 @@ https://salty-castle-35634.herokuapp.com/
 
 A Burger Eatin' Application With Node.js/Express/MySQL
 
-![Alt text](https://github.com/josephfmck/bamazon/blob/master/bamazon%20step%201.png?raw=true "Optional Title")
+![Alt text](https://github.com/josephfmck/burger/blob/master/public/img/screenshot-Eat-Da-Burger.png?raw=true "Optional Title")
 
 ##Description
 
